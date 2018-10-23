@@ -26,3 +26,5 @@ Junto com o PR não esqueça de adicionar o seu nome neste arquivo na sessão de
 
   * [Go Lang - Inácio Régis Neto](https://github.com/inacio/Devinsanta-Challenge/tree/master/Desafio%201/Go-Inacio)
 
+  * [Ruby - Ary Rabelo](https://github.com/aryrabelo/Devinsanta-Challenge/tree/master/Desafio%201/Ruby(aryrabelo))
+

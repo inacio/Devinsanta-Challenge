@@ -1,5 +1,4 @@
 require 'minitest/autorun'
-require 'byebug'
 require_relative 'desafio1'
 
 class Desafio1Test < Minitest::Test
