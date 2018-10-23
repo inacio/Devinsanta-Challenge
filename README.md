@@ -24,5 +24,6 @@ Junto com o PR não esqueça de adicionar o seu nome neste arquivo na sessão de
 
 * Desafio 1
 
-  * [Go Lang - Inácio Régis Neto](https://github.com/inacio/Devinsanta-Challenge/tree/master/Desafio%201/Go-Inacio)
+  * [Go Lang - Inácio Régis Neto](https://github.com/inacio/Devinsanta-Challenge/blob/master/Desafio%201/Go-Inacio/main.go)
+  * [PHP - Inácio Régis Neto](https://github.com/inacio/Devinsanta-Challenge/blob/master/Desafio%201/PHP_Inacio/desafio1.php)
 
