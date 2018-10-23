@@ -13,7 +13,7 @@ func main() {
             fmt.Println(cont,a,b)
           } else if cont  % 6 == 0 {
             fmt.Println(cont ," ",b)
-          }else if cont  % 5 == 0 {
+          } else if cont  % 5 == 0 {
             fmt.Println(cont ," ",a)
           }else{
             fmt.Println(cont)
