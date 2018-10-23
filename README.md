@@ -25,4 +25,5 @@ Junto com o PR não esqueça de adicionar o seu nome neste arquivo na sessão de
 * Desafio 1
 
   * [Go Lang - Inácio Régis Neto](https://github.com/inacio/Devinsanta-Challenge/tree/master/Desafio%201/Go-Inacio)
+  * [Python - Gabriel Cesar](https://github.com/inacio/Devinsanta-Challenge/tree/master/Desafio%201/python_gabrielcesar)
 
