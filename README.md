@@ -29,4 +29,5 @@ Junto com o PR não esqueça de adicionar o seu nome neste arquivo na sessão de
   * [Python - Gabriel Cesar](https://github.com/gabrielcesar/Devinsanta-Challenge/tree/master/Desafio%201/python_gabrielcesar)
   * [JavaScript - Marcelo Figueira](https://github.com/MarceloFigueira/Devinsanta-Challenge/blob/master/Desafio%201/js_marcelofigueira/desafio1.js)
   * [Ruby - Ary Rabelo](https://github.com/aryrabelo/Devinsanta-Challenge/tree/master/Desafio%201/Ruby(aryrabelo))
+  * [Java Script - Will Batista](https://github.com/aryrabelo/Devinsanta-Challenge/tree/master/Desafio%201/JavaScript(Will))
 
