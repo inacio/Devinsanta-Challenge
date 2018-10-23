@@ -19,6 +19,10 @@ Junto com o PR não esqueça de adicionar o seu nome neste arquivo na sessão de
 
 [Desafio 1](https://github.com/aryrabelo/Devinsanta-Challenge/blob/master/Desafio%201/Desafio%201.md)
 
+[Desafio 2](https://github.com/aryrabelo/Devinsanta-Challenge/blob/master/Desafio%202/Desafio%202.md)
+
+[Desafio 3](https://github.com/aryrabelo/Devinsanta-Challenge/blob/master/Desafio%203/Desafio%203.md)
+
 
 ## Soluções
 
@@ -32,4 +36,5 @@ Junto com o PR não esqueça de adicionar o seu nome neste arquivo na sessão de
   * [JavaScript - Marcelo Figueira](https://github.com/MarceloFigueira/Devinsanta-Challenge/blob/master/Desafio%201/js_marcelofigueira/desafio1.js)
   * [Ruby - Ary Rabelo](https://github.com/aryrabelo/Devinsanta-Challenge/tree/master/Desafio%201/Ruby(aryrabelo))
   * [Java Script - Will Batista](https://github.com/aryrabelo/Devinsanta-Challenge/tree/master/Desafio%201/JavaScript(Will))
+  * [Python - Marcelo da Silva](https://github.com/marcelodasilva/Devinsanta-Challenge/blob/master/Desafio%201/python_MarceloDaSilva/solution1.py)
 
