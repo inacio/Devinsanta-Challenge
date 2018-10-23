@@ -1,0 +1,4 @@
+array = {}
+for x in range(2, 301):
+    array[x] = x*x
+    print(array[x])
