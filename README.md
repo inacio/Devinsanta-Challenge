@@ -37,4 +37,5 @@ Junto com o PR não esqueça de adicionar o seu nome neste arquivo na sessão de
   * [Ruby - Ary Rabelo](https://github.com/aryrabelo/Devinsanta-Challenge/tree/master/Desafio%201/Ruby(aryrabelo))
   * [Java Script - Will Batista](https://github.com/aryrabelo/Devinsanta-Challenge/tree/master/Desafio%201/JavaScript(Will))
   * [Python - Marcelo da Silva](https://github.com/marcelodasilva/Devinsanta-Challenge/blob/master/Desafio%201/python_MarceloDaSilva/solution1.py)
+  * [PLSQL - Paulo Welson](https://github.com/paulowelson/Devinsanta-Challenge/blob/master/Desafio%201/PauloWelson_PLSQL/desafio1.sql)
 
