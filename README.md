@@ -19,6 +19,8 @@ Junto com o PR não esqueça de adicionar o seu nome neste arquivo na sessão de
 
 [Desafio 1](https://github.com/aryrabelo/Devinsanta-Challenge/blob/master/Desafio%201/Desafio%201.md)
 
+[Desafio 2](https://github.com/aryrabelo/Devinsanta-Challenge/blob/master/Desafio%202/Desafio%202.md)
+
 
 ## Soluções
 
