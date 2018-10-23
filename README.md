@@ -17,8 +17,12 @@ Junto com o PR não esqueça de adicionar o seu nome neste arquivo na sessão de
 
 ## Desafios
 
-Desafio 1
+[Desafio 1](https://github.com/aryrabelo/Devinsanta-Challenge/blob/master/Desafio%201/Desafio%201.md)
+
 
 ## Soluções
 
+* Desafio 1
+
+  * [Go Lang - Inácio Régis Neto](https://github.com/inacio/Devinsanta-Challenge/tree/master/Desafio%201/Go-Inacio)
 
