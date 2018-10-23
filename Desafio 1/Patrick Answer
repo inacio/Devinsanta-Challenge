@@ -15,19 +15,28 @@ public class DesafioDevInSanta {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        for (int i=1; i<=200; i++) {
+        String output;
+        for (int i = 1; i <= 200; i++) {
             if (i%5 == 0) {
-                System.out.println(i + " Santa");
-            }
-            if (i%6 == 0) {
-                System.out.println(i + " rém");
-           
-            }if ((i!=5 && i!=6) && (i%6==0 && i%5==0)){
-                    System.out.println(i + " Santarem");
-                
-            }else{
-                     System.out.println(i+"");
+                output = " Santa";
+                if (i%6 == 0) {
+                    output = output + "rém";
+                    System.out.println(i + output);
+                } else {
+                    System.out.println(i + output);
                 }
+            }
+            else if (i%6 == 0) {
+                output = "rém";
+                if (i%5 == 0) {
+                    output = " Santa" + output;
+                    System.out.println(i + output);
+                } else {
+                    System.out.println(i + " "+output);
+                }
+            } else {
+                System.out.println(i + "");
+            }
         }
     }
 }
