@@ -1,4 +1,0 @@
-from math import factorial
-array = {}
-for x in range(301,2,-1):
-    print(factorial(x*x))
