@@ -3,10 +3,10 @@
 
 	Gabriel Cesar
 	gabrielcesar2@gmail.com
-        github.com/gabrielcesar
-        
-        Ary Rabelo
-        github.com/aryrabelo
+	github.com/gabrielcesar
+	
+	Ary Rabelo
+	github.com/aryrabelo
 '''
 
 import math
