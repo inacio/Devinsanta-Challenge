@@ -7,7 +7,7 @@ import sys
 sys.setrecursionlimit(1000000)
 
 def factorial(i):
-    if i == 0 or i == 1:
+    if i == 0 or i <= 1:
         return 1 
     else:
         return i * factorial(i - 1)
