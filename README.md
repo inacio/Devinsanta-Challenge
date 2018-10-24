@@ -38,3 +38,14 @@ Junto com o PR não esqueça de adicionar o seu nome neste arquivo na sessão de
   * [Java Script - Will Batista](https://github.com/aryrabelo/Devinsanta-Challenge/tree/master/Desafio%201/JavaScript(Will))
   * [Python - Marcelo da Silva](https://github.com/marcelodasilva/Devinsanta-Challenge/blob/master/Desafio%201/python_MarceloDaSilva/solution1.py)
 
+
+* Desafio 2
+
+  * [Python - Gabriel Cesar](https://github.com/gabrielcesar/Devinsanta-Challenge/tree/master/Desafio%202/python_gabrielcesar)
+
+
+* Desafio 3
+
+  * [Python - Gabriel Cesar](https://github.com/gabrielcesar/Devinsanta-Challenge/tree/master/Desafio%203/python_gabrielcesar)
+
+
