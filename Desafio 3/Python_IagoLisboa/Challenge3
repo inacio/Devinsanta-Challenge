@@ -1,0 +1,6 @@
+from math import factorial
+from datetime import datetime
+startTime = datetime.now()
+for x in range(2, 301):
+    print(factorial(x*x))
+print('\n Elapsed time = ', datetime.now() - startTime)
