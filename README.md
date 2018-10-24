@@ -49,5 +49,5 @@ Junto com o PR não esqueça de adicionar o seu nome neste arquivo na sessão de
 * Desafio 3
 
   * [Python - Gabriel Cesar](https://github.com/gabrielcesar/Devinsanta-Challenge/tree/master/Desafio%203/python_gabrielcesar)
-
+  * [Python - Iago Lisboa](https://github.com/iagolisboa/Devinsanta-Challenge/blob/master/Desafio%203/Python_IagoLisboa/Challenge3)
 
