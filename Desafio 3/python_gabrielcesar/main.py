@@ -2,7 +2,6 @@
 	20181023
 
 	Gabriel Cesar
-	gabrielcesar2@gmail.com
 	github.com/gabrielcesar
 	
 	Ary Rabelo
