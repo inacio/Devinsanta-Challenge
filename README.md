@@ -19,6 +19,10 @@ Junto com o PR não esqueça de adicionar o seu nome neste arquivo na sessão de
 
 [Desafio 1](https://github.com/aryrabelo/Devinsanta-Challenge/blob/master/Desafio%201/Desafio%201.md)
 
+[Desafio 2](https://github.com/aryrabelo/Devinsanta-Challenge/blob/master/Desafio%202/Desafio%202.md)
+
+[Desafio 3](https://github.com/aryrabelo/Devinsanta-Challenge/blob/master/Desafio%203/Desafio%203.md)
+
 
 ## Soluções
 
@@ -34,4 +38,17 @@ Junto com o PR não esqueça de adicionar o seu nome neste arquivo na sessão de
   * [Ruby - Ary Rabelo](https://github.com/aryrabelo/Devinsanta-Challenge/tree/master/Desafio%201/Ruby(aryrabelo))
   * [Java Script - Will Batista](https://github.com/aryrabelo/Devinsanta-Challenge/tree/master/Desafio%201/JavaScript(Will))
   * [Python - Marcelo da Silva](https://github.com/marcelodasilva/Devinsanta-Challenge/blob/master/Desafio%201/python_MarceloDaSilva/solution1.py)
+  * [PLSQL - Paulo Welson](https://github.com/paulowelson/Devinsanta-Challenge/blob/master/Desafio%201/PauloWelson_PLSQL/desafio1.sql)
+
+
+* Desafio 2
+
+  * [Python - Gabriel Cesar](https://github.com/gabrielcesar/Devinsanta-Challenge/tree/master/Desafio%202/python_gabrielcesar)
+  * [Python - Iago Lisboa](https://github.com/iagolisboa/Devinsanta-Challenge/blob/master/Desafio%202/Python_IagoLisboa/challenge2)
+
+
+* Desafio 3
+
+  * [Python - Gabriel Cesar](https://github.com/gabrielcesar/Devinsanta-Challenge/tree/master/Desafio%203/python_gabrielcesar)
+  * [Python - Iago Lisboa](https://github.com/iagolisboa/Devinsanta-Challenge/blob/master/Desafio%203/Python_IagoLisboa/Challenge3)
 
