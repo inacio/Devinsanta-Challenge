@@ -15,17 +15,12 @@ func main() {
 
 	cont := int64(2)
 	i := int64(0)
-	//n := big.NewInt(2)
 	var f big.Int
 	for i < limite {
-		//fmt.Print(cont, " ")
-		//go func() { //
 		array[i] = f.MulRange(int64(1), int64(cont*cont))
 		//fmt.Println(&f)//apenas com este print 36s para finalizar
 		cont++
-		//n = big.NewInt(int64(cont))
 		i++
-		//}()
 	}
 
 	fmt.Println(&array)//2.26min para finalizar
